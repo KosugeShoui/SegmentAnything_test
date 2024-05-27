@@ -1,5 +1,8 @@
 # SAMを動かしてみる
 深層学習の生殖医療応用にSAMを導入してみたいお気持ちで動かしてみるためのリポジトリ。
+
+<img width="750" alt="Untitled" src="https://github.com/KosugeShoui/SegmentAnything_test/assets/106908620/0e7c2a42-7423-4d97-a995-575a2d82f9f3">
+
 ## 1. 環境
 - Python 3.8.5
 - torch 1.11.0+cu113
